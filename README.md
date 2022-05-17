@@ -1,3 +1,17 @@
+# Create API key 
+Go on new api website login and get api key
+# Add api website 
+1.create the file in the project file with name ".env.local "
+2.inside the ".env.local" file add
+
+REACT_APP_NEWS_API="enter your api key here"
+
+at the position of "enter your api key here" enter your api key 
+e.g.
+   REACT_APP_NEWS_API="e95ddb39afc24d8dfb555f2b9f9da73d"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
